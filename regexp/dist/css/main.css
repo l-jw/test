@@ -1,0 +1,13 @@
+body {
+  background: url(images/11.png);
+}.div {
+  height: 100px;
+  width: 100px;
+  background-color: aqua; }
+  .div .d {
+    height: 40px;
+    width: 40px;
+    background-color: brown;
+    transform: rotate(30deg); }
+
+/*# sourceMappingURL=main.css.map*/
